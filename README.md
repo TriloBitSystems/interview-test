@@ -8,4 +8,4 @@ Naprogramujte jednoduchý sklad (warehouse) s jednou tabuľkou, ktorá bude obsa
 Odovzdaný program musí byť zkompilovateľný. Nie je nevyhnutne nutné splniť kompletné zadanie, niektorá časť funkcionality môže chýbať, kandidát však musí vedieť vecne a jasne vysvetliť, ako by postupoval v programovaní danej časti. Pozitívne budeme hodnotiť použité technológie, prehľadnosť kódu a rovnako aj rozdelenie do čiastočných komitov (samostatných častí aplikácie v rámci jedného komitu). Pri prípadnom interview po úspešnom zložení testu sa budeme spolu rozprávať o tom, ako kandidát postupoval pri vypracovaní úlohy. Celý kód sa musí nachádzať na githube vo verejnom repozitári kandidáta, aby bolo možné spolu kód prejsť.
 
 ## Čas na vypracovanie
-Kandidát by mal byť schopný toto zadanie vypracovať do max 2MD (tj. 16 pracovných hodín).
+Kandidát by mal byť schopný toto zadanie vypracovať do max 2MD (tj. 16 pracovných hodín - čas od vytvorenia repozitára po posledný commit).
